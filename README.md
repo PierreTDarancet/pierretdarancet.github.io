@@ -1,2 +1,0 @@
-# pierretdarancet.github.io
-GroupWebpage
