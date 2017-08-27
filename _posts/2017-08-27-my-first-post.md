@@ -1,6 +1,6 @@
 ---
 layout: post
-author: pierre
+author: Pierre
 title: "Incipit"
 categories: misc
 tags: 
@@ -29,4 +29,5 @@ Here are the different things I wish to implement and achieve with this website:
 6. Publish mentoring notes for students and postdocs
 7. Publish [Sphinx documentations](http://sphinx-doc.org/) and tutorials on the codes I publish and use
 8. Document Argonne 101 and group practices
+9. Publish [Gnuplot](http://www.gnuplot.info/) scripts used in my work
 
