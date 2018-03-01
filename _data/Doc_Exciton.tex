@@ -1,0 +1,177 @@
+%\documentclass[twocolumn,letterpaper,superscriptaddress,prl]{revtex4}
+\documentclass[book]{revtex4}
+\usepackage{graphicx}
+\usepackage[usenames]{color}
+\usepackage{multirow}
+\usepackage{fancyhdr}
+
+%\usepackage{latexsym}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{mathrsfs}
+\usepackage{url}
+\usepackage{float} 
+\usepackage{subfig} 
+%\usepackage{CJK}
+\pagestyle{fancy}
+\fancyhf{}
+
+\newcommand{\tr}{\mathop{\mathrm{Tr}}}
+\lhead{\fancyplain{}{ \sc{Pierre Darancet}}}
+\chead{\fancyplain{}{\sc{ Exciton Scattering}}}
+\rhead{\fancyplain{}{\thepage}}
+\makeatother
+%\pageref{Lastpage}}}
+\renewcommand{\sectionmark}[1]{\markright{#1}}
+\begin{document}
+\date{\today}
+\thispagestyle{empty}
+
+\begin{center}
+{\LARGE Exciton Scattering}\\
+\vspace*{0.2cm}
+{\normalsize {\sc Pierre Darancet}, \\ 
+\vspace*{0.1cm}
+
+(pierre.darancet@gmail.com)}
+\end{center}
+
+\section{Summary}
+
+Assuming the holes and electrons are fully confined to a nanoplatelet of width L and surface S, the valence and conduction wavefunctions can be written as (PRL 98, 136805 (2007))
+\begin{eqnarray*}
+\Psi_{n\mathbf{k}}\left( \mathbf{r} \right) &\simeq& \phi_{n} \left( z  \right)  \chi_{\mathbf{k}} \left(  \mathbf{\rho}  \right) \\
+\phi_{n} \left( z  \right)  &=& \sqrt{\frac{2}{L}} cos\left(\frac{\pi n z}{L} \right) \\
+\chi_{\mathbf{k}} \left(  \mathbf{\rho}  \right)  &=& \frac{e^{i\mathbf{k.}\mathbf{\rho}}}{\sqrt{S}}
+\end{eqnarray*}
+where $\mathbf{k}$ is the in-plane quasi-momentum. The normalization factor in the latter expression naturally leads to the experimentally observed dependence of the quenching time for highly-coherent excitons freely moving within the platelet: Following previous works (PRB 40,18 (1989); Mater. Sci. Eng. B 1, 255 (1988); Physical Review B 88 (4), 045318 (2013)) we can write a singlet exciton wavefunction with the simple form $\Psi^\textrm{S}= f\left(\vert\mathbf{r}_e - \mathbf{r}_h \vert \right) \phi_{v} \left( z_e  \right) \phi_{c} \left( z_h \right) \chi_{\mathbf{k}} \left(  \mathbf{\rho}_e  \right) \chi_{\mathbf{k}} \left(  \mathbf{\rho}_h  \right) \propto 1/S$  
+
+Assuming the singlet to CT-state transition rate is given by the Fermi Golden Rule $\Gamma^{\textrm{S} \rightarrow  \textrm{CT}} \propto \frac{2\pi}{\hbar} \left| \langle \Psi^{\textrm{CT}} \vert V  \vert \Psi^{\textrm{S}} \rangle \right|^2$, the scattering time increase as $ 1/S^{2}$  
+
+The areal dependence of the scattering cross-section between the singlet wavefunction with the localized CT state  arises when using a simple approximation to the singlet exciton wavefunction: 
+ as a 0-momentum product of an exponentially decaying envelope function  $f\left(\vert\mathbf{r}_e - \mathbf{r}_h \vert \right)$ and  the valence and conduction wavefunctions  $\Psi_{n\mathbf{k}}  \Psi_{m\mathbf{k} } $ leads 
+
+
+A simple approximation to the singlet exciton wavefunction as a 0-momentum product of an exponentially decaying envelope function  $f\left(\vert\mathbf{r}_e - \mathbf{r}_h \vert \right)$valence and conduction wavefunctions  $\Psi_{n\mathbf{k}}  \Psi_{m\mathbf{k} }$ leads 
+ 
+The interaction potential between electron and holes confined to the platelet is given by the Keldysh potential (L. V. Keldysh, JETP Lett. 29, 658 (1979).) 
+For 0-momentum excitons corresponding to a $\Psi_{n\mathbf{k}} \rightarrow \Psi_{m\mathbf{k}}$ electronic transition, a variational approach to the singlet excitonic wavefunction leads to 
+
+Under the assumption of a local perturbation of the excitonic Hamiltonian and a delocalized singlet state, the (purely electronic) collision integral between the CT state and the 
+
+
+Assuming an electron is fully localized on the MV molecule at a distance z above the center of the nanoplatelet of thickness L (z>L/2), in a solvent of dielectric constant $\Epsilon_s$, Kumagai and Takagahara (Phys. Rev. B, 40, 18 (1989)) have derived the following expression for the Coulomb interaction between the the holes in the slab and the electron on the MV molecule
+
+\begin{eqnarray*}
+\Gamma^{\textrm{S} \rightarrow  \textrm{CT}} &=& \frac{2\pi}{\hbar} \left| \langle \Psi^{\textrm{CT}} \vert V  \vert \Psi^{\textrm{S}} \rangle \right|^2 \delta\left(  E_\textrm{S} - E_\textrm{CT} \right) \\
+ &\propto&  (1/ A)^2 
+\end{eqnarray*}
+
+
+\begin{eqnarray*}
+\vert \Psi^{\textrm{CT}} \rangle  &=&   \sqrt{\frac{2}{\pi a^2}} e^{\frac{-\sqrt{x^2 + y^2}}{a}} \\ 
+\langle  \mathbf{r}_e, \mathbf{r}_h  \vert \Psi^{\textrm{S}} \rangle &=&  \Psi_{c}\left( \mathbf{r}_e \right) \Psi_v \left( \mathbf{r}_h \right) \Psi_{\textrm{env}}\left( \vert\mathbf{r}_e - \mathbf{r}_h \vert \right) 
+\end{eqnarray*}
+
+
+(time scales as the square of the area)
+
+%I have derived a set of equations for connecting the valence-conduction picture to a more realistic scattering potential, \textit{i.e.}: 
+%\begin{eqnarray*}
+%langle \Psi^{\textrm{CT}} \vert V  \vert \Psi^{\textrm{S}} \rangle \simeq \frac{1}{2} \int_{\Omega} d\mathbf{r} d\mathbf{r'} \frac{\delta \rho^S  \left(  \mathbf{r}\right)   \delta \rho^{CT}   \left(  \mathbf{r'}\right) }{ } \\
+%\delta \rho^{S/CT}  \left(  \mathbf{r}\right)   &=& \sum_c \sum_v   \left(  \left( \left| \psi_v  \left(    \mathbf{r} \right)\right|^2 - \left| \psi_c  \left(    \mathbf{r} \right)\right|^2 \right) \left| A^{S/CT}_{vc} \right|^2      +  \sum_{v'\neq v} \psi_v  \left(    \mathbf{r} \right) \psi^\dagger_{v'}  \left(    \mathbf{r} \right)  A^{S/CT}_{cv} A^{S/CT*}_{cv'}      -   \sum_{c'\neq c}  \psi^\dagger_c  \left(    \mathbf{r} \right) \psi_{c'}  \left(    \mathbf{r} \right)  A^{S/CT}_{cv} A^{S/CT*}_{c'v}  \right) 
+%\end{eqnarray*}
+
+Evaluation of these equations using the Wannier functions of a CdSe slab is in progress: 
+%\begin{figure}
+%\begin{center}
+%\vspace{-2cm}
+%\includegraphics[width=4.2cm]{CdSeslab.png}
+%\caption{CdSe Slab.}
+%\label{FigSlab}
+%\end{center}
+
+%\end{figure}
+
+
+\section{Derivation}
+\subsection{Definitions \& Notations}
+
+Exciton WF hypothesis: 
+\begin{eqnarray*}
+\langle  \mathbf{r}_e, \mathbf{r}_h  \vert \Psi^S \rangle &=&  \Psi^S \left(  \mathbf{r}_e, \mathbf{r}_h \right) \\
+\Psi^S \left(  \mathbf{r}_e, \mathbf{r}_h \right) &=& \sum_v \sum_c A^S_{cv} \psi_v  \left(  \mathbf{r}_h \right)  \psi^\dagger_c  \left(    \mathbf{r}_e \right) \\
+\Psi^S \left(  \mathbf{r}_e, \mathbf{r}_h \right) &=& \sum_v \sum_c A^S_{cv} \langle   \mathbf{r}_h   \vert \psi_v   \rangle \langle \psi_c \vert    \mathbf{r}_e \rangle
+\end{eqnarray*}
+
+
+Transition rates given by Fermi Golden Rule:  
+\begin{eqnarray*}
+\Gamma^{\textrm{S} \rightarrow  \textrm{CT}} = \frac{2\pi}{\hbar} \left| \langle \Psi^{\textrm{CT}} \vert V  \vert \Psi^{\textrm{S}} \rangle \right|^2 \delta\left(  E_\textrm{S} - E_\textrm{CT} \right)
+\end{eqnarray*}
+Later on, we will consider scattering in the framework of the Lippmann-Schwinger equation (scattering theory):
+\begin{eqnarray*}
+\langle \Psi^\textrm{CT} \vert \Psi^{+/-}  \rangle   =  \langle \Psi^{\textrm{CT}}  \vert \Psi^{\textrm{S}} \rangle +  \langle \Psi^{\textrm{CT}}  \vert  \frac{1}{\omega-H^0_{\textrm{exc}}} \times V \vert  \Psi^{+/-}  \rangle 
+\end{eqnarray*}
+where $V$ is the electronic coupling between CdSe conduction and MV's LUMO. 
+
+
+
+Scalar Product and normalization:
+\begin{eqnarray*}
+ \langle \Psi^S  \vert \Psi^S \rangle = \int_V\int_{V} d  \mathbf{r}_e  d\mathbf{r}_h  \langle  \Psi^S  \vert  \mathbf{r}_e, \mathbf{r}_h \rangle \langle  \mathbf{r}_e, \mathbf{r}_h  \vert \Psi^S \rangle&=& \int_V\int_{V} d  \mathbf{r}_e  d\mathbf{r}_h  \Psi^{S\dagger} \left(  \mathbf{r}_e, \mathbf{r}_h \right)  \Psi^S \left(  \mathbf{r}_e, \mathbf{r}_h \right) \\
+  \langle \Psi^S  \vert \Psi^S \rangle  &=& \int_V\int_{V} d  \mathbf{r}_e  d\mathbf{r}_h    \sum_c \sum_v \sum_{c'} \sum_{v'}  A^S_{cv} A^{S*}_{c'v'} \psi^\dagger_c  \left(    \mathbf{r}_e \right) \psi_{c'}  \left(    \mathbf{r}_e \right)  \psi_v  \left(    \mathbf{r}_h \right) \psi^\dagger_{v'}  \left(    \mathbf{r}_h \right) \\
+   &=&   \sum_c \sum_v \sum_{c'} \sum_{v'}A^S_{cv} A^{S*}_{c'v'}   \int_V d  \mathbf{r}_e  \psi^\dagger_c  \left(    \mathbf{r}_e \right) \psi_{c'}  \left(    \mathbf{r}_e \right)   \int_{V} d\mathbf{r}_h    \psi_v  \left(    \mathbf{r}_h \right) \psi^\dagger_{v'}  \left(    \mathbf{r}_h \right) \\
+      &=&   \sum_c \sum_v \sum_{c'} \sum_{v'} A^S_{cv} A^{S*}_{c'v'} \delta_{vv'}  \delta_{cc'} =   \sum_c \sum_v \left| A^{S}_{vc} \right|^2
+\end{eqnarray*}
+
+\subsection{Density operators}
+
+Electronic density operator:
+\begin{eqnarray}
+\delta \rho^-  \left(  \mathbf{r}_e\right)  &=&  \sum_{v}     \vert    \mathbf{r}_e,  \psi_v   \rangle   \langle   \mathbf{r}_e,  \psi_v \vert  \\
+ \langle \Psi^S  \vert \delta \rho^-  \left(  \mathbf{r}\right)    \vert \Psi^S \rangle &=&  \int_V\int_{V} d  \mathbf{r}_e  d\mathbf{r}_h    \delta \left(  \mathbf{r}_e - \mathbf{r} \right)   \Psi^{S\dagger} \left(  \mathbf{r}_e, \mathbf{r}_h \right)  \Psi^S \left(  \mathbf{r}_e, \mathbf{r}_h \right) \\
+&=&  \int_V d\mathbf{r}_h    \sum_c \sum_v \sum_{c'} \sum_{v'}  A^S_{cv} A^{S*}_{c'v'} \psi^\dagger_c  \left(    \mathbf{r} \right) \psi_{c'}  \left(    \mathbf{r} \right)  \psi_v  \left(    \mathbf{r}_h \right) \psi^\dagger_{v'}  \left(    \mathbf{r}_h \right) \\
+&=&  \sum_c \sum_{c'} \psi^\dagger_c  \left(    \mathbf{r} \right) \psi_{c'}  \left(    \mathbf{r} \right)  \sum_v   A^S_{cv} A^{S*}_{c'v} \\
+&=&   \left( \sum_c \sum_v  \left| \psi_c  \left(    \mathbf{r} \right)\right|^2 \left| A^{S}_{vc} \right|^2  \right)  + \left(   \sum_c \sum_{c'\neq c} \sum_v   \psi^\dagger_c  \left(    \mathbf{r} \right) \psi_{c'}  \left(    \mathbf{r} \right)  A^S_{cv} A^{S*}_{c'v}  \right) 
+\end{eqnarray}
+
+Integral of the electronic density operator:
+\begin{eqnarray}
+ \int_V d \mathbf{r} \langle \Psi^S  \vert \delta \rho^-  \left(  \mathbf{r}\right)    \vert \Psi^S \rangle&=& \sum_c \sum_{c'} \int_V  d\mathbf{r}\ \psi^\dagger_c  \left(    \mathbf{r} \right) \psi_{c'}  \left(    \mathbf{r} \right)  \sum_v   A^S_{cv} A^{S*}_{c'v}  \\
+ &=& \sum_c \sum_{c'} \delta_{cc'}  \sum_v   A^S_{cv} A^{S*}_{c'v}  \\
+ &=& \sum_c \sum_v \left| A^{S}_{vc} \right|^2
+\end{eqnarray}
+
+Hole density operator
+\begin{eqnarray}
+\delta \rho^+  \left(  \mathbf{r}_h\right)  &=&  \sum_{c}     \vert   \psi_c ,    \mathbf{r}_h  \rangle   \langle  \psi_c,  \mathbf{r}_h \vert  \\
+ &=&   \left( \sum_c \sum_v  \left| \psi_v  \left(    \mathbf{r} \right)\right|^2 \left| A^{S}_{vc} \right|^2  \right)  + \left(   \sum_v \sum_{v'\neq v} \sum_c   \psi_v  \left(    \mathbf{r} \right) \psi^\dagger_{v'}  \left(    \mathbf{r} \right)  A^S_{cv} A^{S*}_{cv'}  \right)  
+\end{eqnarray}
+Integral of the hole density operator:
+\begin{eqnarray}
+ \int_V d \mathbf{r} \langle \Psi^S  \vert \delta \rho^+  \left(  \mathbf{r}\right)    \vert \Psi^S \rangle  &=& \sum_c \sum_v \left| A^{S}_{vc} \right|^2
+\end{eqnarray}
+
+
+
+Let's call $ \rho^S   \left(  \mathbf{r}\right) $ the total charge density of the system, and $\delta \rho^S\left(  \mathbf{r}\right) =\rho^S   \left(  \mathbf{r}\right)  -  \rho_{\textrm{ions}}\left(  \mathbf{r}\right)  - \rho^{e-}_{GS}\left(  \mathbf{r}\right)$ the change in density undergone by the system upon excitation --where $ \rho^{e-}_{GS}$ is the electronic (valence) density in the ground state, and $ \rho_{\textrm{ions}}$ is the ionic (pseudo-ionic) density). 
+
+Information about $\delta \rho^S$ is found in the excitonic wavefunction $  \vert \Psi^S \rangle $
+
+The change in charge density of the system in state $S$ is: 
+\begin{eqnarray*}
+\delta \rho^S  \left(  \mathbf{r}\right)   &=& \sum_c \sum_v   \left(  \left( \left| \psi_v  \left(    \mathbf{r} \right)\right|^2 - \left| \psi_c  \left(    \mathbf{r} \right)\right|^2 \right) \left| A^{S}_{vc} \right|^2      +  \sum_{v'\neq v} \psi_v  \left(    \mathbf{r} \right) \psi^\dagger_{v'}  \left(    \mathbf{r} \right)  A^S_{cv} A^{S*}_{cv'}      -   \sum_{c'\neq c}  \psi^\dagger_c  \left(    \mathbf{r} \right) \psi_{c'}  \left(    \mathbf{r} \right)  A^S_{cv} A^{S*}_{c'v}  \right) 
+\end{eqnarray*}
+
+
+\subsection{Total charge density}
+The charge density of the system in state $S$ is: 
+\begin{eqnarray}
+ \rho^S   \left(  \mathbf{r}\right) &=& \rho_{\textrm{ions}}\left(  \mathbf{r}\right)  + \rho^{e-}_{GS}\left(  \mathbf{r}\right)  + \delta \rho^S\left(  \mathbf{r}\right)     \\
+\delta \rho^S  \left(  \mathbf{r}\right)   &=& - \langle \Psi^S  \vert \delta \rho^-  \left(  \mathbf{r}\right)    \vert \Psi^S \rangle  +  \langle \Psi^S  \vert \delta \rho^+  \left(  \mathbf{r}\right)    \vert \Psi^S \rangle\\
+ &=&\left( \sum_c \sum_v  \left( \left| \psi_v  \left(    \mathbf{r} \right)\right|^2 - \left| \psi_c  \left(    \mathbf{r} \right)\right|^2 \right) \left| A^{S}_{vc} \right|^2  \right)    + \left(   \sum_v \sum_{v'\neq v} \sum_c   \psi_v  \left(    \mathbf{r} \right) \psi^\dagger_{v'}  \left(    \mathbf{r} \right)  A^S_{cv} A^{S*}_{cv'}  \right)   \nonumber \\
+ &&    - \left(   \sum_c \sum_{c'\neq c} \sum_v   \psi^\dagger_c  \left(    \mathbf{r} \right) \psi_{c'}  \left(    \mathbf{r} \right)  A^S_{cv} A^{S*}_{c'v}  \right) 
+\end{eqnarray}
+
+\end{document}
