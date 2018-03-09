@@ -9,6 +9,7 @@ tags:
   - Jekyll
   - CV
   - Pierre
+  - English
 ---
 
 After much procrastination, welcome to our webpage! This page aims at being the main personal page of the author, Pierre Darancet. 
