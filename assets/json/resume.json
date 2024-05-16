@@ -1,24 +1,24 @@
 {
   "basics": {
-    "name": "Albert Einstein",
+    "name": "Pierre Darancet",
     "label": "Scientist",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "pdarancet@anl.gov",
+    "phone": "(630) 252-4709",
+    "url": "https://pierretdarancet.github.io/",
+    "summary": "Physicist at Argonne National Laboratory, working on theoretical condensed matter physics, nanoscience, and the optoelectronic properties of complex materials and interfaces",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "9700 S Cass Avenue, Building 440, Rm A239",
+      "postalCode": "IL 60439",
+      "city": "Lemont",
       "countryCode": "US",
-      "region": "California"
+      "region": "Illinois"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "Linkedin",
+        "username": "pierre-darancet",
+        "url": "https://www.linkedin.com/in/pierre-darancet/"
       }
     ]
   },
@@ -149,28 +149,13 @@
       ]
     }
   ],
-  "languages": [
-    {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
-    },
-    {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
-    }
-  ],
   "interests": [
     {
       "name": "Physics",
       "icon": "fa-solid fa-tag",
       "keywords": [
         "Quantum Mechanics",
-        "Quantum Computing",
         "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
         "Quantum Teleportation"
       ]
     }
