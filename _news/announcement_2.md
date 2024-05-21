@@ -16,5 +16,5 @@ At Argonne, Jing will work on developing an exascale framework for coupled elect
 ---
 
 > <a href="https://www.linkedin.com/in/kasidet-trerayapiwat-73b3917a/">Jing's Linkedin page</a> 
-> <a href="https://www.linkedin.com/in/kasidet-trerayapiwat-73b3917a/">Jing's Google Scholar </a> 
+> <a href="https://scholar.google.com/citations?user=HN5AfUgAAAAJ&hl=en">Jing's Google Scholar </a> 
 
