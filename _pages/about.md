@@ -2,14 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.anl.gov/profile/pierre-darancet'>Theory of Nanoscale Information and Energy Transport at the Center for Nanoscale Materials, Argonne National Laboratory</a>. 
+subtitle: <a href='https://www.anl.gov/profile/pierre-darancet'>Theory of Nanoscale Information and Energy Transport</a>. 
 
 profile:
   align: right
   image: avatar.gif
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Building 440, #A239</p>
+    <p>Building 440</p>
     <p>9700 S. Cass Avenue</p>
     <p>Lemont, IL 60439</p>
 
@@ -18,5 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-We are a group interested in the theory of optical, electronic, thermal, and mechanical response of low-symmetry materials, including nanomaterials, interfaces, and correlated materials. We are part of the [Theory and Modeling group] (https://cnm.anl.gov/group/Theory-and-Modeling) at the [Center for Nanoscale Materials (CNM)] (https://cnm.anl.gov/) at [Argonne National Laboratory] (https://www.anl.gov/). Our research is highly collaborative in nature and leverages the extraordinary context of the [Department of Energy] (https://www.energy.gov/science/bes/basic-energy-sciences) [Scientific User Facilities] (https://science.osti.gov/bes/suf/User-Facilities/Nanoscale-Science-Research-Centers). If our research interests you, consider [becoming a CNM user] (https://cnm.anl.gov/pages/user-quick-start-guide)! 
+We are a group interested in the theory of optical, electronic, thermal, and mechanical response of low-symmetry materials, including nanomaterials, interfaces, and correlated materials. We are part of the [Theory and Modeling group](https://cnm.anl.gov/group/Theory-and-Modeling) at the [Center for Nanoscale Materials (CNM)](https://cnm.anl.gov/) at [Argonne National Laboratory](https://www.anl.gov/). Our research is highly collaborative in nature and leverages the extraordinary context of the [Department of Energy] (https://www.energy.gov/science/bes/basic-energy-sciences) [Scientific User Facilities](https://science.osti.gov/bes/suf/User-Facilities/Nanoscale-Science-Research-Centers). If our research interests you, consider [becoming a CNM user](https://cnm.anl.gov/pages/user-quick-start-guide)! 
+
+
 
