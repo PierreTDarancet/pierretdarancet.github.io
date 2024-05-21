@@ -2,24 +2,21 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='https://www.anl.gov/profile/pierre-darancet'>Theory of Nanoscale Information and Energy Transport at the Center for Nanoscale Materials, Argonne National Laboratory</a>. 
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: avatar.gif
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Building 440, #A239</p>
+    <p>9700 S. Cass Avenue</p>
+    <p>Lemont, IL 60439</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+We are a group interested in the theory of optical, electronic, thermal, and mechanical response of low-symmetry materials, including nanomaterials, interfaces, and correlated materials. We are part of the [Theory and Modeling group] (https://cnm.anl.gov/group/Theory-and-Modeling) at the [Center for Nanoscale Materials (CNM)] (https://cnm.anl.gov/) at [Argonne National Laboratory] (https://www.anl.gov/). Our research is highly collaborative in nature and leverages the extraordinary context of the [Department of Energy] (https://www.energy.gov/science/bes/basic-energy-sciences) [Scientific User Facilities] (https://science.osti.gov/bes/suf/User-Facilities/Nanoscale-Science-Research-Centers). If our research interests you, consider [becoming a CNM user] (https://cnm.anl.gov/pages/user-quick-start-guide)! 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
