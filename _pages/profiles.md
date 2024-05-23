@@ -59,7 +59,7 @@ profiles:
 
 
   - align: right
-    image: default_1.jpg
+    image: qunfei_pic.jpg
     content: about_qunfei.md
     image_circular: false # crops the image to make it circular
     more_info: >
@@ -68,7 +68,7 @@ profiles:
 
 
   - align: left
-    image: default_2.jpg
+    image: anubhab_pic.jpg
     content: about_anubhab.md
     image_circular: false # crops the image to make it circular
     more_info: >
@@ -78,7 +78,7 @@ profiles:
 
 
   - align: right
-    image: default_1.jpg
+    image: daniel_pic.jpg
     content: about_daniel.md
     image_circular: false # crops the image to make it circular
     more_info: >
@@ -87,7 +87,7 @@ profiles:
 
 
   - align: left
-    image: default_2.jpg
+    image: srilok_pic.jpg
     content: about_srilok.md 
     image_circular: false # crops the image to make it circular
     more_info: >
@@ -97,7 +97,7 @@ profiles:
 
 
   - align: right
-    image: default_1.jpg
+    image: henry_pic.jpg
     content: about_henry.md
     image_circular: false # crops the image to make it circular
     more_info: >
@@ -106,7 +106,7 @@ profiles:
 
 
   - align: left
-    image: default_2.jpg
+    image: bukuru_pic.jpg
     content: about_bukuru.md 
     image_circular: false # crops the image to make it circular
     more_info: >
@@ -115,7 +115,7 @@ profiles:
 
 
   - align: right
-    image: default_1.jpg
+    image: salvador_pic.jpg
     content: about_salvador.md
     image_circular: false # crops the image to make it circular
     more_info: >
@@ -124,7 +124,7 @@ profiles:
 
 
   - align: left
-    image: default_2.jpg
+    image: kevin_pic.jpg
     content: about_kevin.md
     image_circular: false # crops the image to make it circular
     more_info: >
@@ -160,7 +160,7 @@ profiles:
 
 
   - align: left
-    image: default_2.jpg
+    image: sridhar_pic.jpg
     content: about_sridhar.md
     image_circular: false # crops the image to make it circular
     more_info: >
