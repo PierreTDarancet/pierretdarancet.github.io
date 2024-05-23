@@ -17,10 +17,9 @@ profiles:
     more_info: >
       <p> Dr. Sraddha Agrawal, Postdoctoral fellow, Argonne National Lab</p>
 
-
-   - align: left
+  - align: left
     image: default_2.jpg
-    content: about_jithin.md
+    content: about_sraddha.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p> Dr. Jithin George, Postdoctoral Fellow, Northwestern University</p>
