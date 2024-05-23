@@ -6,9 +6,23 @@ description: Current members and alumni
 nav: true
 nav_order: 7
 
+profiles:
+  # if you want to include more than one profile, just replicate the following block
+  # and create one content file for each profile inside _pages/
+  - align: right
+    image: prof_pic.jpg
+    content: about_pierre.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p> Pierre Darancet, old person in charge</p>
+
+
 ---
 
-profiles:
+
+
+
+
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
 
@@ -35,16 +49,12 @@ profiles:
   #    <p> Dr. Jing Trerayapiwat, Postdoctoral Fellow, Argonne National Lab</p>
 
 
-  - align: right
-    image: prof_pic.jpg
-    content: about_pierre.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p> Pierre Darancet, Old person in charge</p>
-
-
----
-
+  #- align: right
+  #  image: prof_pic.jpg
+  #  content: about_pierre.md
+  #  image_circular: false # crops the image to make it circular
+  #  more_info: >
+  #    <p> Pierre Darancet, Old person in charge</p>
 
   #- align: right
   #  image: default_1.jpg
