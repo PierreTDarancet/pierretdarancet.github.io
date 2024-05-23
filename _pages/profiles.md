@@ -10,6 +10,15 @@ profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
   - align: right
+    image: default_1.jpg
+    content: about_sraddha.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p> Dr. Sraddha Agrawal, Postdoctoral fellow, Argonne National Lab</p>
+
+
+
+  - align: right
     image: prof_pic.jpg
     content: about_pierre.md
     image_circular: false # crops the image to make it circular
@@ -25,13 +34,6 @@ profiles:
 
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
-
-  #- align: right
-  #  image: default_1.jpg
-  #  content: about_sraddha.md
-  #  image_circular: false # crops the image to make it circular
-  #  more_info: >
-  #    <p> Dr. Sraddha Agrawal, Postdoctoral fellow, Argonne National Lab</p>
 
   # - align: left
   #  image: default_2.jpg
