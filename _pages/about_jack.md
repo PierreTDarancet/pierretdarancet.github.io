@@ -1,0 +1,3 @@
+Mr. Jack Crewse, (Argonne National Laboratory), July 2022 – September 2023 <a href="https://www.linkedin.com/in/jack-crewse-50b710b0">Linkedin</a>, <a href="https://scholar.google.com/citations?user=SkU8oqoAAAAJ&amp;hl=en&amp;oi=ao">Scholar Page</a>
+
+Position prior to joining the group: Graduate student, Missouri University of Science and Technology. Position upon leaving the group: Intellectual Property and Technology Development Manager, Polsky Center, University of Chicago.

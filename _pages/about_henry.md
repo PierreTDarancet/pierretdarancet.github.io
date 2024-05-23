@@ -1,0 +1,3 @@
+Dr. <a href="https://www.anl.gov/profile/henry-chan">Henry Chan</a> (Postdoctoral fellow, Argonne National Laboratory, supervised by Dr. <a href="https://www.anl.gov/profile/subramanian-sankaranarayanan">Subramanian Sankaranarayanan</a>), February 2019 – September 2020 <a href="https://www.linkedin.com/in/henry-chan-b38a7215">Linkedin</a>, <a href="https://scholar.google.com/citations?user=6hH8R3UAAAAJ&amp;hl=en">Scholar Page</a>. 
+
+Position prior to joining the group: Postdoctoral fellow, University of Illinois at Chicago. Position upon leaving the group: Assistant Scientist, Argonne National Laboratory.

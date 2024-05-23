@@ -1,0 +1,1 @@
+Mr. Nicholas Rivera, June – August 2018 <a href="https://www.linkedin.com/in/nicholas-rivera-23301368">Linkedin</a>, <a href="https://scholar.google.com/citations?user=DTfZcM0AAAAJ&amp;hl=en">Scholar Page</a>. Position prior to joining/upon leaving the group: Graduate student, Department of Physics, Massachusetts Institute of Technology.
