@@ -19,7 +19,7 @@ profiles:
 
   - align: left
     image: default_2.jpg
-    content: about_sraddha.md
+    content: about_jithin.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p> Dr. Jithin George, Postdoctoral Fellow, Northwestern University</p>
