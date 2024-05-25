@@ -129,29 +129,5 @@
       "url": "https://doi.org/10.1103/PhysRevLett.102.136803",
       "summary": "Where is the resistance coming from in nanoscale devices made of graphene? When talking about electrons near the Dirac point (whose wavelength is diverging with energy), we showed this resistance comes from diffraction of electronic waves by the narrow constrictions used in quantum transport. It even has the same functional dependence, including Bethe and Kirchhoff regimes, and Fabry Perot patterns. This simple conclusion came after we derived and implemented a fairly advanced numerical method  complex in a sister paper in PRB for the computation of the Landauer channels of nanodevices of arbitrary shapes. "
     }
-  ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Information",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": [
-        "Quantum Teleportation",
-        "Quantum Cryptography"
-      ],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
-    }
   ]
 }
