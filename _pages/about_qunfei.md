@@ -1,18 +1,25 @@
-Dr. <a href="https://sites.google.com/view/zhougroup">Qunfei Zhou</a>, February 2018 – July 2023 <a href="https://www.linkedin.com/in/qunfei-zhou-746a9241/">Linkedin</a>, <a href="https://scholar.google.com/citations?user=vvOmCYYAAAAJ&amp;hl=en">Scholar Page</a>.
+February 2018 – July 2023 
+Current Position: Assistant Professor of Physics, University of Kansas. <a href="https://sites.google.com/view/zhougroup">The Zhou Research Group</a>, <a href="https://www.linkedin.com/in/qunfei-zhou-746a9241/"><i class="fa-brands fa-linkedin-in"></i>
+</a>, <a href="https://scholar.google.com/citations?user=vvOmCYYAAAAJ"><i class="ai ai-google-scholar-square ai-3x"></i></a>.
 
-Position prior to joining the group: Postdoctoral Fellow, University of Kentucky. Position upon leaving the group: Assistant Professor of Physics, University of Kansas.
+Qunfei's research focused on understanding mixed-dimensional heterojunctions as part of the Northwestern MRSEC. Qunfei joined the group from a postdoctoral position at the University of Kentucky and left as an Assistant Professor of Physics, University of Kansas.
 
-Works with the group:
+> Works with the group:
 
+<a href="https://doi.org/10.1021/acs.nanolett.9b02645">Large Band Edge Tunability in Colloidal Nanoplatelets</a>
 
+<a href="https://doi.org/10.1021/acs.jpca.0c10766">Electronic Structure of Metallophthalocyanines, MPc (M = Fe, Co, Ni, Cu, Zn, Mg) and Fluorinated MPc</a>
 
+<a href="https://doi.org/10.1021/acsnano.9b09661">Molecular-Scale Characterization of Photoinduced Charge Separation in Mixed-Dimensional InSe–Organic van der Waals Heterostructures</a>
 
-href="https://www.linkedin.com/in/qunfei-zhou-746a9241/"
+<a href="https://doi.org/10.1021/acsnano.8b09166">Electronic Coupling in Metallophthalocyanine–Transition Metal Dichalcogenide Mixed-Dimensional Heterojunctions</a>
 
-<i class="fa-brands fa-linkedin-in"></i>
+<a href="https://pubs.acs.org/doi/abs/10.1021/acsami.9b14412">Charge Separation in Epitaxial SnS/MoS2 Vertical Heterojunctions Grown by Low-Temperature Pulsed MOCVD</a>
 
-<i class="fa-brands fa-linkedin-in">href="https://www.linkedin.com/in/qunfei-zhou-746a9241/"</i>
+<a href="https://doi.org/10.1021/jacs.1c07795">Mechanistic Investigation of Molybdenum Disulfide Defect Photoluminescence Quenching by Adsorbed Metallophthalocyanines</a>
 
+<a href="https://doi.org/10.1063/5.0052619">Range-separated hybrid functionals for mixed dimensional heterojunctions: Application to phthalocyanines/MoS2</a>
 
-<i class="fa-brands fa-linkedin-in"><a href="https://www.linkedin.com/in/qunfei-zhou-746a9241/">Linkedin</a>
-</i>
+<a href="https://arxiv.org/abs/2109.09990">Engineering the Electronic Structure of Two-Dimensional Materials with Near-Field Electrostatic Effects of Self-Assembled Organic Layers</a>
+
+<a href="https://arxiv.org/abs/2205.04606">Analytical Theory of Near-Field Electrostatic Effects in Two-Dimensional Materials and van der Waals Heterojunctions</a>
