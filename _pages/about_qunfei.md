@@ -23,3 +23,5 @@ Qunfei's research focused on understanding mixed-dimensional heterojunctions as 
 <a href="https://arxiv.org/abs/2109.09990">Engineering the Electronic Structure of Two-Dimensional Materials with Near-Field Electrostatic Effects of Self-Assembled Organic Layers</a>
 
 <a href="https://arxiv.org/abs/2205.04606">Analytical Theory of Near-Field Electrostatic Effects in Two-Dimensional Materials and van der Waals Heterojunctions</a>
+
+<a href="https://doi.org/10.1103/PhysRevB.109.195149">In-plane Wilson loop for measurement of quantized non-Abelian Berry flux</a>
