@@ -1,6 +1,6 @@
 January 2019 – April 2021
 
-Current Position: Machine Learning Scientist at Eli Lilly. <a href="href="https://www.linkedin.com/in/srilok-srinivasan/""><i class="fa-brands fa-linkedin-in"></i>
+Current Position: Machine Learning Scientist at Eli Lilly. <a href="https://www.linkedin.com/in/srilok-srinivasan/"><i class="fa-brands fa-linkedin-in"></i>
 </a>, <a href="https://scholar.google.com/citations?user=a2q0zn8AAAAJ&hl=en"><i class="ai ai-google-scholar-square ai-3x"></i></a>.
 
 
