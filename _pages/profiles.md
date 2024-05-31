@@ -42,7 +42,7 @@ profiles:
  
 
   - align: right
-    image: default_1.jpg
+    image: connor_pic.jpg
     content: about_connor.md
     image_circular: false # crops the image to make it circular
     more_info: >
@@ -142,7 +142,7 @@ profiles:
 
 
   - align: left
-    image: default_2.jpg
+    image: praveen_pic.jpg
     content: about_praveen.md
     image_circular: false # crops the image to make it circular
     more_info: >
@@ -151,7 +151,7 @@ profiles:
 
 
   - align: right
-    image: default_1.jpg
+    image: trevor_pic.jpg
     content: about_trevor.md
     image_circular: false # crops the image to make it circular
     more_info: >
