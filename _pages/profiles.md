@@ -11,14 +11,14 @@ profiles:
   # and create one content file for each profile inside _pages/
 
   - align: right
-    image: default_1.jpg
+    image: sraddha_pic.jpg
     content: about_sraddha.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p> Dr. Sraddha Agrawal, Postdoctoral fellow, Argonne National Lab</p>
 
   - align: left
-    image: default_2.jpg
+    image: jithin_pic.jpg
     content: about_jithin.md
     image_circular: false # crops the image to make it circular
     more_info: >
