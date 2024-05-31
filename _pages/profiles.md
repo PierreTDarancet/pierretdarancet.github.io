@@ -164,7 +164,7 @@ profiles:
     content: about_sridhar.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p> Former Postdoctoral Fellow, Argonne National Lab</p>
+      <p> Dr. Sridhar Sadasivam, Former Postdoctoral Fellow, Argonne National Lab</p>
 
 
 
