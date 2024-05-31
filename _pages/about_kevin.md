@@ -1,6 +1,6 @@
 May – August 2018
 
-Current Position (2024): Machine Learning Research Lead, SandboxAQ <a href="https://www.linkedin.com/in/kryczko/?originalSubdomain=ca"><i class="fa-brands fa-linkedin-in"></i>, </a>, <a href="https://scholar.google.com/citations?user=orKPuRgAAAAJ&hl=en"><i class="ai ai-google-scholar-square ai-3x"></i></a>.
+Current Position (2024): Machine Learning Research Lead, SandboxAQ <a href="https://www.linkedin.com/in/kryczko/?originalSubdomain=ca"><i class="fa-brands fa-linkedin-in"></i> </a>, <a href="https://scholar.google.com/citations?user=orKPuRgAAAAJ&hl=en"><i class="ai ai-google-scholar-square ai-3x"></i></a>
 
 Kevin was a visiting graduate student from Dr. <a href="https://www.linkedin.com/in/itamblyn/?originalSubdomain=ca">Isaac Tamblyn's group</a> in the Physics department of the University of Ottawa. His project focused on developing approaches to the optimization of doping profiles for valleytronics using reinforcement learning. 
 
