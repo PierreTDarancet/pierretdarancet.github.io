@@ -1,7 +1,7 @@
 January 2019 – April 2021
 
 Current Position (2024): Machine Learning Scientist at Eli Lilly. <a href="https://www.linkedin.com/in/srilok-srinivasan/"><i class="fa-brands fa-linkedin-in"></i>
-</a>, <a href="https://scholar.google.com/citations?user=a2q0zn8AAAAJ&hl=en"><i class="ai ai-google-scholar-square ai-3x"></i></a>.
+</a> <a href="https://scholar.google.com/citations?user=a2q0zn8AAAAJ&hl=en"><i class="ai ai-google-scholar-square ai-3x"></i></a>
 
 
 Srilok's research, co-supervised by Dr. <a href="https://www.anl.gov/profile/subramanian-sankaranarayanan">Subramanian Sankaranarayanan</a>, focused on understanding the topological properties of atomic assemblies as well as automatizing the computational discovery of metastable materials. Among his contributions, he implemented our current workflow based on Muffin-Tin + Tight-binding for the simulations of molecules on noble metal surface states, as well as codes to optimize atomic manipulation. Srilok joined the group after completing his PhD at Iowa State University and left as a Machine Learning Scientist at Peptilogics.
