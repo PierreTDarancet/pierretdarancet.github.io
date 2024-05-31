@@ -3,7 +3,9 @@ June 2016 – January 2018
 Current Position (2024): Senior Systems Software Engineer at Nvidia  <a href="https://www.linkedin.com/in/sridhar-sadasivam-52291517/"><i class="fa-brands fa-linkedin-in"></i>
 </a> <a href="https://scholar.google.com/citations?user=phhJuukAAAAJ&hl=en"><i class="ai ai-google-scholar-square ai-3x"></i></a>
 
-Sridhar (the first person to ever join the group!) focused on modeling the light- and voltage-induced structural dynamics. He developed a C++ software still used by the group today to model hot-electron-induced non-equilibrium phonon dynamics using coupled Boltzmann transport equations (BTE)  and first-principles parameterizations of the electron-phonon and phonon-phonon interactions. He also proposed and validated a generalized two-temperature model (a generalization of <a href="https://doi.org/10.1103/PhysRevLett.59.1460"> the seminal work</a> of the great Philip Allen to the case of semiconductors and nanomaterials) aka "successive thermalization model" that quantitatively recovers the BTE results and that Pierre still continue to mention at any random occasion. 
+Sridhar (the first person crazy enough to join the group) studied and modeled the light- and voltage-induced structural dynamics. Among his many contributions, he developed a C++ software still used by the group today to model hot-electron-induced non-equilibrium phonon dynamics using coupled Boltzmann transport equations (BTE)  and first-principles parameterizations of the electron-phonon and phonon-phonon interactions. 
+
+He also proposed and validated an effective model of laser heating, based on a generalized two-temperature model (a generalization of <a href="https://doi.org/10.1103/PhysRevLett.59.1460"> the seminal work</a> of the great Philip Allen to the case of semiconductors and nanomaterials) aka "successive thermalization model" that quantitatively recovers the BTE results and that Pierre continues to mention at any possible occasion to this day, regardless how relevant. 
 
 Sridhar joined the group after his PhD at Purdue University and left for a Software Engineer position at Intel.
 
