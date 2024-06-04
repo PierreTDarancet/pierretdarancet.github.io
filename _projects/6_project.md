@@ -1,12 +1,12 @@
 ---
 layout: page
-title: project 6
+title: Northwestern University MRSEC, IRG1 ​Reconfigurability in Mixed-Dimensional Heterojunctions”
 description: a project with no image
 img:
 importance: 4
-category: fun
+category: past
 ---
-
+ (2015 - 2023): Atomistic simulations of mixed-dimensional heterojunctions (MDHJ). Development of density functionals for MDHJ and extractions of materials descriptors for highly heterogeneous materials.  
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
 Make your photos 1/3, 2/3, or full width.

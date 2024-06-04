@@ -4,9 +4,11 @@ title: Threadwork: A Transformative Co-Design Approach to Materials and Computer
 description: FY21 -- FY24
 img: assets/img/threadwork_cover.jpg
 importance: 2
-category: work
-related_publications: true
+category: active
 ---
+
+
+% related_publications: true
 
 Funded by the Department of Energy, Office of Science and led by <a href="https://en.wikipedia.org/wiki/Valerie_Taylor_(computer_scientist)"> Dr. Valerie Taylor, <a href="https://www.anl.gov/threadwork"> Threadwork</a> is focused on the development of a co-design framework for simulation of plasmonic interconnects.
 
