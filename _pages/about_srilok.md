@@ -18,7 +18,7 @@ Srilok joined the group after completing his PhD at Iowa State University and le
 
 <a href="https://github.com/Srilok/Machine-learning-Metastable-Phase-Diagram"> Metastable phases of Carbon identified using workflow</a>
 
-> Codes/Scripts: 
+> Codes/Scripts:
 
 <a href="https://pubs.acs.org/doi/suppl/10.1021/acsnano.2c04361/suppl_file/nn2c04361_si_001.zip"> Jupyter notebooks for the computation of the topological properties of graphene nanoribbons</a>
 
