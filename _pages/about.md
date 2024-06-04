@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: Welcome
 permalink: /
 subtitle: <a href='https://www.anl.gov/profile/pierre-darancet'>Theory of Nanoscale Information and Energy Transport</a>.
 
