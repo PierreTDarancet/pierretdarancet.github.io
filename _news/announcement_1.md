@@ -6,7 +6,7 @@ inline: false
 related_posts: false
 ---
 
-Dr. <a href="https://www.linkedin.com/in/kasidet-trerayapiwat-73b3917a/">Jing Trerayapiwat</a> joins the group. Prior to joining the group, Jing obtained his PhD in Theoretical Chemistry from  Boston University.
+Dr. <a href="https://www.linkedin.com/in/kasidet-trerayapiwat-73b3917a/">Jing Trerayapiwat</a> joins the group. Prior to joining the group, Jing obtained his PhD in Theoretical Chemistry from Boston University.
 
 ---
 

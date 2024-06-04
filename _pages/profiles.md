@@ -37,7 +37,7 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p> Pierre Darancet, Old person in charge, Argonne National Lab</p>
- 
+
   - align: right
     image: connor_pic.jpg
     content: about_connor.md
@@ -75,7 +75,7 @@ profiles:
 
   - align: left
     image: srilok_pic.jpg
-    content: about_srilok.md 
+    content: about_srilok.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p> Dr. Srilok Srinivasan, Former Postdoctoral Fellow, Argonne National Lab</p>
@@ -89,7 +89,7 @@ profiles:
 
   - align: left
     image: bukuru_pic.jpg
-    content: about_bukuru.md 
+    content: about_bukuru.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p> Mr. Bukuru Anaclet, Former REU student, Pomona College, and REU+ fellow, Northwestern University</p>
@@ -135,9 +135,4 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p> Dr. Sridhar Sadasivam, Former Postdoctoral Fellow, Argonne National Lab</p>
-
 ---
-
-  # if you want to include more than one profile, just replicate the following block
-  # and create one content file for each profile inside _pages/
-
