@@ -4,7 +4,6 @@ Current Position (2024): NSF graduate fellow, Department of Chemistry, Universit
 
 Bukuru was a REU undergraduate student from Pomona College co-supervised by Dr. <a href="http://www.linkedin.com/in/qunfei-zhou-746a9241/">Qunfei Zhou</a> in the summer of 2020. He was selected as a REU+ fellow by Northwestern University and finished his senior thesis in the group. He performed some early DFT calculations of molecular layers like C8BTBT that led to our theory of near-field electrostatics.
 
-
 > Works with the group:
 
 <a href="https://arxiv.org/abs/2109.09990">Engineering the Electronic Structure of Two-Dimensional Materials with Near-Field Electrostatic Effects of Self-Assembled Organic Layers</a>
