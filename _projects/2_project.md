@@ -21,4 +21,4 @@ Our contribution to this program includes modeling of materials with strong tera
    We introduced a simple linearization protocol that extends the use of optomechanical switching protocols to the case of anharmonic phonons in broken-symmetry materials, and demonstrated its efficiency at high displacement amplitudes. Our formalism and results provide a path for improving optical control in nonlinear phononics. (Highlighted as an Editor Suggestion in Physical Review Materials). 
 </div>
 
-You can a
+You can learn more about the Basic Research Needs in Microelectronics identified by the Department of Energy by <a href="https://science.osti.gov/-/media/bes/pdf/reports/2019/BRN_Microelectronics_rpt.pdf">reading this 2019 report</a>. 
