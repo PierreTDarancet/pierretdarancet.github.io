@@ -105,24 +105,24 @@
     {
       "name": "Engineering the Electronic Structure of Two-Dimensional Materials with Near-Field Electrostatic Effects of Self-Assembled Organic Layers",
       "releaseDate": "2021-09-21",
-      "url":"https://arxiv.org/abs/2109.09990",
+      "url": "https://arxiv.org/abs/2109.09990",
       "summary": "We derived and validated a new (the first?) analytical theory of near-field electrostatic effects in 2D interfaces beyond the multipole expansion, based on a discretized change density ansatz. Solving those equations established the effect of the electrostatic potential of molecules, Moiré, and mixed-dimensional heterojunction on 2D materials."
     },
-   {
+    {
       "name": "Range-separated hybrid functionals for mixed dimensional heterojunctions: Application to phthalocyanines/MoS2",
       "publisher": "APL Materials",
       "releaseDate": "2021-12-20",
       "url": "https://doi.org/10.1063/5.0052619",
       "summary": "We classically derived the asymptotic behavior of the exact exchange for a mixed-dimensional heterojunctions. Including this behavior in a generalized Kohn-Sham scheme, we showed this approach was able to capture the electronic structure of otherwise challenging mixed-dimensional heterojunctions. Beyond its impact, this work is special to me as it benefitted immensely from the help of an unnamed referee, and built on the remarkable work of my colleage Prof. Su Ying Quek."
-    },    
-   {
+    },
+    {
       "name": "Theory of Thermal Relaxation of Electrons in Semiconductors",
       "publisher": "Physical Review Letters",
       "releaseDate": "2017-09-27",
       "url": "https://doi.org/10.1103/PhysRevLett.119.136602",
       "summary": "We computed the hot-electron induced lattice dynamics in cubic semiconductors from first principles. Our semi-classical method, also implemented by other groups (Maldonado and Oppeneer, Sjakste and Vast, Ono, Bernardi,...) around the same time, is based on the parametrization using DFPT/MBPT of the electron-phonon and phonon-phonon scattering matrices in two coupled Boltzmann transport equations for electrons and phonons. Our central conclusion was that the 2-temperature model of Philip Allen for thermal relaxation in metals (proposed 30 years prior to our work) was breaking down for semiconductors, but could be generalized to a scheme we dubbed 'successive thermalization' --where the 2 subsystems are generalized to electrons+hot phonons vs cold phonons, with the intra-phonon thermalization timescales implemented through an accumulation function."
-    },    
-   {
+    },
+    {
       "name": "Coherent Electronic Transport through Graphene Constrictions: Subwavelength Regime and Optical Analogy",
       "publisher": "Physical Review Letters",
       "releaseDate": "2009-03-31",
