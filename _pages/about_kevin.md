@@ -4,7 +4,7 @@ Current Position (2024): Machine Learning Research Lead, SandboxAQ <a href="http
 
 Kevin was a visiting graduate student from Dr. <a href="https://www.linkedin.com/in/itamblyn/?originalSubdomain=ca">Isaac Tamblyn's group</a> in the Physics department of the University of Ottawa. His project focused on developing approaches to the optimization of doping profiles for valleytronics using reinforcement learning.
 
-As of May 2024 (and to the best of Pierre's knowledge), the approach he developed (inspired by Conway's game of life) remains the only available AI approach on the market for the optimization of spin/pseudospin current in nanoscale electronics (please send note to Pierre if the article has been superseded and he will add it to our "superseded articles" blog post). 
+As of May 2024 (and to the best of Pierre's knowledge), the approach he developed (inspired by Conway's game of life) remains the only available AI approach on the market for the optimization of spin/pseudospin current in nanoscale electronics (please send note to Pierre if the article has been superseded and he will add it to our "superseded articles" blog post).
 
 > Works with the group:
 
