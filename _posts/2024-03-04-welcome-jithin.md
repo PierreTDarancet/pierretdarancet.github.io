@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Dr. Jithin George joins the group, welcome Jithin ! 
+title: Dr. Jithin George joins the group, welcome Jithin!
 date: 2024-03-04  09:00:00-0700
 inline: false
 related_posts: false
@@ -12,8 +12,7 @@ Dr.  <a href="https://dirivian.github.io/">Jithin George</a> joins as a postdoct
 
 ---
 
-
-At CNM, Jithin will work on machine learning surrogates of the dielectric properties and the optimization of Lagrangians with funky non-conservative terms. 
+At CNM, Jithin will work on machine learning surrogates of the dielectric properties and the optimization of Lagrangians with funky non-conservative terms.
 
 ---
 

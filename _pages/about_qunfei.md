@@ -1,9 +1,9 @@
-February 2018 – July 2023 
+February 2018 – July 2023
 
 Current Position (2024): Assistant Professor of Physics, University of Kansas. <a href="https://sites.google.com/view/zhougroup">The Zhou Research Group</a>, <a href="https://www.linkedin.com/in/qunfei-zhou-746a9241/"><i class="fa-brands fa-linkedin-in"></i>
 </a>, <a href="https://scholar.google.com/citations?user=vvOmCYYAAAAJ"><i class="ai ai-google-scholar-square ai-3x"></i></a>.
 
-Qunfei's research focused on understanding mixed-dimensional heterojunctions (MDHJs) as part of the Northwestern MRSEC. Among many other contributions, she developed an analytical theory of near-field interactions in molecular layers and Moiré materials with <a href="https://www.linkedin.com/in/michele-kotiuga/">Dr. Michele Kotiuga</a>, derived materials descriptors for band offset control in MDHJs, and implemented a variation of the  <a href="https://doi.org/10.1021/nl072058i"> DFT+Sigma method</a> for MDHJs, as well as a density functional with correct asymptotic behavior for molecules on 2D materials. Qunfei joined the group from a postdoctoral position at the University of Kentucky and left as an Assistant Professor of Physics, University of Kansas. 
+Qunfei's research focused on understanding mixed-dimensional heterojunctions (MDHJs) as part of the Northwestern MRSEC. Among many other contributions, she developed an analytical theory of near-field interactions in molecular layers and Moiré materials with <a href="https://www.linkedin.com/in/michele-kotiuga/">Dr. Michele Kotiuga</a>, derived materials descriptors for band offset control in MDHJs, and implemented a variation of the  <a href="https://doi.org/10.1021/nl072058i"> DFT+Sigma method</a> for MDHJs, as well as a density functional with correct asymptotic behavior for molecules on 2D materials. Qunfei joined the group from a postdoctoral position at the University of Kentucky and left as an Assistant Professor of Physics, University of Kansas.
 
 > Works with the group:
 
@@ -30,4 +30,3 @@ Qunfei's research focused on understanding mixed-dimensional heterojunctions (MD
 > Data:
 
 <a href="https://materialsdatafacility.org/detail/phthalocyanine_mos2_v1.1?type=dataset"> Electronic Structure of Transition-Metal Phthalocyanine (MPc) Molecules and Mixed-Dimensional MPc-MoS2 Heterojunctions </a>
-
