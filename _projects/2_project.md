@@ -9,7 +9,7 @@ category: active
 
 Funded by the Department of Energy, Office of Science and led by <a href="https://en.wikipedia.org/wiki/Valerie_Taylor_(computer_scientist)"> Dr. Valerie Taylor, <a href="https://www.anl.gov/threadwork"> Threadwork</a> is focused on the development of a co-design framework for simulation of plasmonic interconnects.
 
-Our contribution to this program includes modeling of materials with strong terahertz responses,     development of protocols for ultrafast plasmonic switches {% cite haldar2024excitation %}, and integration of materials properties in the simulation framework.
+Our contribution to this program includes modeling of materials with strong terahertz responses, development of protocols for ultrafast plasmonic switches {% cite haldar2024excitation %}, and integration of materials properties in the simulation framework.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
