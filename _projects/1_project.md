@@ -4,7 +4,7 @@ title: Center for Nanoscale Materials
 description: FY15 -- present 
 img: assets/img/Cnm_argonne.jpg
 importance: 1
-category: work
+category: active
 ---
 
 A primary support of our work since 2014, <a href="https://science.osti.gov/bes/suf/User-Facilities/Nanoscale-Science-Research-Centers">the DOE NSRC program</a> allocates staff time and resources at no cost for open research through <a href="https://cnm.anl.gov/pages/user-quick-start-guide">triannual proposal calls</a> (typically July, October, March). If you are interested in our research, we strongly recommend <a href="https://pierretdarancet.github.io/cv/">contacting Pierre</a> a few weeks ahead of the deadline for guidance/help in writing the proposal. 
