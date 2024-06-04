@@ -5,18 +5,19 @@ nav: true
 nav_order: 3
 dropdown: true
 children:
-  - title: posts
+  - title: Posts
     permalink: /blog/
   - title: divider
-  - title: teaching
+  - title: Tutorials and Teaching
     permalink: /teaching/
   - title: divider
-  - title: codes and repos
+  - title: Codes and Repos
     permalink: /repositories/
   - title: divider
-  - title: cv
+  - title: CV
     permalink: /cv/
-  - title: publications
+  - title: divider
+  - title: Publications
     permalink: /publications/
   - title: divider
 ---
