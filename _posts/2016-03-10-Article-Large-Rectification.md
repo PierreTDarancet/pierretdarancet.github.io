@@ -38,14 +38,10 @@ authors:
 #     jekyll-toc plugin (https://github.com/toshimaru/jekyll-toc).
 toc:
   - name: Description
-    # if a section has subsections, you can add them as follows:
-     subsections:
-       - name: What it means
-       - name: What it doesn't mean
-       - name: Our modeling and what it brought
-
+  - name: What it means
+  - name: What it doesn't mean
+  - name: Our modeling and what it brought
   - name: Equations
-  - name: Modeling
   - name: Data
 
 # Below is an example of injecting additional post-specific styles.
@@ -109,10 +105,6 @@ If you have an appendix, a bibliography is automatically created and populated i
 $$
 \left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)
 $$
-
----
-
-## Modeling
 
 ---
 
