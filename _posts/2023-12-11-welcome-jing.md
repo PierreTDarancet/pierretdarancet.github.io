@@ -4,6 +4,8 @@ title: Dr. Jing Trerayapiwat joins the group, welcome Jing!
 date: 2023-12-11  08:00:00-0700
 inline: false
 related_posts: false
+categories: hr
+thumbnail: assets/img/jing_pic.jpg
 ---
 
 Dr. <a href="https://www.linkedin.com/in/kasidet-trerayapiwat-73b3917a/">Jing Trerayapiwat</a> joins the group. Prior to joining the group, Jing obtained his PhD in Theoretical Chemistry from Boston University.

@@ -4,6 +4,8 @@ title: Dr. Sraddha Agrawal joins the group, welcome Sraddha!
 date: 2024-03-04  08:00:00-0700
 inline: false
 related_posts: false
+categories: hr
+thumbnail: assets/img/sraddha_pic.jpg
 ---
 
 Dr. <a href="https://www.linkedin.com/in/sraddha-agrawal-a849a7142/">Sraddha Agrawal</a> joins the Center for Nanoscale Materials as a postdoctoral fellow! Prior to joining the group, Sraddha obtained her PhD in Chemistry from the University of Southern California.
