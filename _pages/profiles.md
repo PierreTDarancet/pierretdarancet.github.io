@@ -25,7 +25,7 @@ profiles:
       <p> Dr. Jithin George, Postdoctoral Fellow, Northwestern University</p>
 
   - align: right
-    image: default_1.jpg
+    image: jing_pic.jpg
     content: about_jing.md
     image_circular: false # crops the image to make it circular
     more_info: >
