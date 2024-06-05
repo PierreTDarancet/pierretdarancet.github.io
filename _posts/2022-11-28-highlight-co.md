@@ -5,9 +5,9 @@ description: Scientists construct novel quantum testbed one atom at a time
 date: 2022-11-28  08:00:00-0700
 inline: false
 related_posts: true
-tags: topology surface science atomic manipulation
+tags: topology surface-science atomic-manipulation
 categories: highlights
-thumbnail: assets/img/cover_acsnano_thumbnail.jpg
+thumbnail: assets/img/cover_acsnano.jpg
 ---
 
 The great <a href="https://www.linkedin.com/in/savannah-mitchem-35073713b">Savannah Mitchem</a> recently wrote a news story about our  recently published work  {% cite trainer2022artificial %} on artificial lattices made by carving the potential energy surface of the surface states of copper surfaces with carbon monoxide molecules.
