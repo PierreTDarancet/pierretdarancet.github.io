@@ -610,7 +610,7 @@ jsonresume:
   - basics
   - work
   - education
-  - selected publications
+#  - selected publications
 #  - projects
 #  - volunteer
 #  - awards
