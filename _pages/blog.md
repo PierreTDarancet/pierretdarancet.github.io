@@ -1,14 +1,14 @@
 ---
 layout: default
 permalink: /blog/
-title: Posts
-nav: false
-nav_order:
+title: Highlights and Posts
+nav: true
+nav_order: 3
 pagination:
   enabled: true
   collection: posts
   permalink: /page/:num/
-  per_page: 5
+  per_page: 50
   sort_field: date
   sort_reverse: true
   trail:

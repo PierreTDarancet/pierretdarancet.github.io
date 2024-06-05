@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Research highlight: Scientists construct novel quantum testbed one atom at a time
+title: Our recent work has been highlighted!
 date: 2022-11-28  08:00:00-0700
 inline: false
 related_posts: false
