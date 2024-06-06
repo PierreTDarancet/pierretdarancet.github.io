@@ -1,7 +1,7 @@
 ---
 layout: distill
-title: New Article Rectification In Molecular Bilayer
-description: Large Spatially Resolved Rectification in a Donor–Acceptor Molecular Heterojunction
+title: Rectification In Donor–Acceptor Molecular Heterojunctions
+description: Article:  Large Spatially Resolved Rectification in a Donor–Acceptor Molecular Heterojunction
 date: 2016-03-10  08:00:00-0700
 inline: false
 related_posts: true
@@ -66,6 +66,7 @@ _styles: >
 Our new article "Large Spatially Resolved Rectification in a Donor–Acceptor Molecular Heterojunction"  {% cite smerdon2016large %} on highly (>1,000!) rectifying molecular bilayers, in collaboration with the groups of <a href="https://www.anl.gov/profile/jeffrey-r-guest">Jeffrey Guest</a> at CNM and <a href="https://www.uclan.ac.uk/academics/dr-joe-smerdon">Joe Smerdon</a> at the University of Lancashire, has been published in Nanoletters. 
  
  ## Description
+ 
  The citation is presented inline like this: <d-cite key="smerdon2016large"></d-cite> (a number that displays more information on hover).
 If you have an appendix, a bibliography is automatically created and populated in it.
 

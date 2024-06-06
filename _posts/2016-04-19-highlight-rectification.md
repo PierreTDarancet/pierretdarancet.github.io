@@ -10,7 +10,7 @@ categories: highlights
 thumbnail: assets/img/highlight_RR.jpg
 ---
 
-Our  recently published work  {% cite smerdon2016large %} on highly (>1,000!) rectifying molecular bilayers, in collaboration with the groups of <a href="https://www.anl.gov/profile/jeffrey-r-guest">Jeffrey Guest</a> at CNM and <a href="https://www.uclan.ac.uk/academics/dr-joe-smerdon">Joe Smerdon</a> at the University of Lancashire, has been highlighted by the Department of Energy.
+Our recently published work {% cite smerdon2016large %} on highly (>1,000!) rectifying molecular bilayers, in collaboration with the groups of <a href="https://www.anl.gov/profile/jeffrey-r-guest">Jeffrey Guest</a> at CNM and <a href="https://www.uclan.ac.uk/academics/dr-joe-smerdon">Joe Smerdon</a> at the University of Lancashire, has been highlighted by the Department of Energy.
  
 The highlight, entitled <a href="https://science.osti.gov/bes/Highlights/2016/BES-2016-08-a">"Making a One-Way Street for Electricity"can be found here.</a> 
 
