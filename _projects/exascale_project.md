@@ -3,7 +3,7 @@ layout: page
 title: Argonne LDRD
 description: Exascale Framework for Artificial Intelligence-Enabled Coupled Electro-Thermal Modeling of Three-Dimensional Integrated Devices FY24 -- present
 img: assets/img/Cnm_argonne.jpg
-importance: 1
+importance: 3
 category: active
 ---
 

@@ -3,7 +3,7 @@ layout: page
 title: Argonne LDRD 
 description: AI Robotic Platform for Solution-Processable Materials FY18
 img: assets/img/Cnm_argonne.jpg
-importance: 1
+importance: 4
 category: past
 ---
 
