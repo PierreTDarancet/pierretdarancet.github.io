@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Threadwork
-description: A Transformative Co-Design Approach to Materials and Computer Architecture Research, FY21 -- FY24
+title: co-PI, ThreadworkA Transformative Co-Design Approach to Materials and Computer Architecture 
+description: DOE SC, FY21 -- FY24
 img: assets/img/threadwork_cover.jpg
 importance: 2
 category: active

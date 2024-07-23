@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Center for Nanoscale Materials
-description: FY15 -- present
+description: DOE BES FY15 -- present
 img: assets/img/Cnm_argonne.jpg
 importance: 1
 category: active
