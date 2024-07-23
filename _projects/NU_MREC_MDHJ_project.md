@@ -1,9 +1,9 @@
 ---
 layout: page
-title: NSF Northwestern University MRSEC
-description: IRG1 ​Reconfigurability in Mixed-Dimensional Heterojunctions 2015 -- 2023
+title: co-PI, Reconfigurability in Mixed-Dimensional Heterojunctions 
+description: NSF Northwestern MRSEC IRG1 ​ 2015 -- 2023
 img: assets/img/mrsec_cover.jpg
-importance: 1
+importance: 3
 category: past
 ---
 

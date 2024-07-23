@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Argonne LDRD
-description: AI Robotics for Solution-Processable Materials FY20
+title: co-PI, AI Robotics for Solution-Processable Materials
+description: Argonne LDRD FY20
 img: assets/img/Cnm_argonne.jpg
-importance: 2
+importance: 6
 category: past
 ---
 

@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Argonne LDRD 
-description: AI guided metastable phase diagram of materials FY19 -- FY21
-img: assets/img/Cnm_argonne.jpg
-importance: 3
+title: co-PI, AI guided metastable phase diagram of materials
+description: Argonne LDRD   FY19 -- FY21
+img: assets/img/metastable_cover.jpg
+importance: 5
 category: past
 ---
 
