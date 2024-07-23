@@ -1,7 +1,7 @@
 ---
 layout: page
-title: co-PI, Atomic Synthesis of Artificial Lattices for Quantum Simulation 
-description: Argonne LDRD FY19 -- FY21
+title: Atomic Synthesis of Artificial Lattices for Quantum Simulation 
+description: co-PI, Argonne LDRD FY19 -- FY21
 img: assets/img/artificiallattice_cover.jpg 
 importance: 4
 category: past

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Lead PI, AI Robotic Platform for Solution-Processable Materials 
-description: Argonne LDRD FY18
+title: AI Robotic Platform for Solution-Processable Materials 
+description: Lead PI, Argonne LDRD FY18
 img: assets/img/Cnm_argonne.jpg
 importance: 2
 category: past

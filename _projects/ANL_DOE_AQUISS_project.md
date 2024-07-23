@@ -1,7 +1,7 @@
 ---
 layout: page
-title: co-PI, The Atomic Quantum Information Surface Science (AQuISS) Lab
-description:  DOE BES FY22 -- present
+title: The Atomic Quantum Information Surface Science (AQuISS) Lab
+description:  co-PI, DOE BES FY22 -- present
 img: assets/img/aquiss_cover.jpg
 importance: 5
 category: active

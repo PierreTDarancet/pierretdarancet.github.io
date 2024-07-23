@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Lead PI, Exascale for AI-Enabled Electro-Thermal Modeling of 3D-Integrated Devices
-description: Argonne LDRD FY24 -- present
+title: Exascale for AI-Enabled Electro-Thermal Modeling of 3D-Integrated Devices
+description: Lead PI, Argonne LDRD FY24 -- present
 img: assets/img/Cnm_argonne.jpg
 importance: 3
 category: active

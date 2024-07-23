@@ -1,7 +1,7 @@
 ---
 layout: page
-title: co-PI, A Digital Twin for In Silico Time- Resolved Experiments
-description: DOE BES FY20 -- Present
+title: A Digital Twin for In Silico Time- Resolved Experiments
+description: co-PI, DOE BES FY20 -- Present
 img: assets/img/digitaltwin_cover.jpg
 importance: 4
 category: active
