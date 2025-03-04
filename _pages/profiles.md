@@ -10,34 +10,33 @@ profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
 
-  - align: right
+  - align: left
     image: sraddha_pic.jpg
     content: about_sraddha.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p> Dr. Sraddha Agrawal, Postdoctoral fellow, Argonne National Lab</p>
 
-  - align: left
+  - align: right
     image: jithin_pic.jpg
     content: about_jithin.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p> Dr. Jithin George, Postdoctoral Fellow, Northwestern University</p>
 
-  - align: right
+  - align: left
     image: jing_pic.jpg
     content: about_jing.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p> Dr. Jing Trerawapiyat, Postdoctoral fellow, Argonne National Lab</p>
 
-  - align: left
+  - align: right
     image: prof_pic.jpg
     content: about_pierre.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p> Pierre Darancet, Old person in charge, Argonne National Lab</p>
-
 
  - align: left
     image: sewar_pic.jpg
@@ -45,7 +44,6 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p> Ms. Sewar Dghain, Former Mic2Exl Fellow, Chicago State University</p>
-
 
   - align: right
     image: connor_pic.jpg
