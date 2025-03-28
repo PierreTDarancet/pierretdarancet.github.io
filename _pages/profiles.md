@@ -38,13 +38,6 @@ profiles:
     more_info: >
       <p> Pierre Darancet, Old person in charge, Argonne National Lab</p>
 
- - align: left
-    image: sewar_pic.jpg
-    content: about_sewar.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p> Ms. Sewar Dghain, Former Mic2Exl Fellow, Chicago State University</p>
-
   - align: right
     image: connor_pic.jpg
     content: about_connor.md
