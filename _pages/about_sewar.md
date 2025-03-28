@@ -1,4 +1,4 @@
- Sep. 2024 - Feb. 2025
+ Sep. 2024 – Feb. 2025
 
 Current Position (2024): Graduate Student, Computer Science, Chicago State University  <a href="https://www.linkedin.com/in/sewar-dghaim-9175191a5/"><i class="fa-brands fa-linkedin-in"></i> </a> 
 
