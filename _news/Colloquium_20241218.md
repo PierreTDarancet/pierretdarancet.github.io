@@ -8,7 +8,7 @@ categories: seminar-announcements
 
 Speaker: Prof. Peijun Guo (Yale)
 
-Title: Tracking and making use of heat in two-dimensional metal halide perovskites 
+Title: Tracking and making use of heat in two-dimensional metal halide perovskites
 
 Abstract: Two-dimensional metal halide perovskites (2D-MHPs) are chemically and structurally diverse semiconducting materials with promising applications in photovoltaics and optoelectronics. The understanding of charge and heat transport is crucial for improving the performance and stability of devices made from these materials. I will discuss our recent efforts on developing time-resolved optical spectroscopy and imaging techniques, which permit the monitoring of heat flow in these hierarchically architectured materials. I will then demonstrate how we might turn the generally poor thermal transport property of these materials into a desirable characteristic, where we employ these materials for thermal-type photodetectors of long-wavelength light. If time permits, I will also present our efforts on the understanding of intrinsic chiroptical properties of chiral 2D-MHPs.
 
